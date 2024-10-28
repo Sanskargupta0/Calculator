@@ -4,7 +4,7 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript. This 
 
 ## Demo
 
-[Link to Live Demo](#) *(Replace this with your live link if available)*
+[Link to Live Demo](https://sanskargupta0.github.io/Calculator/) *(Replace this with your live link if available)*
 
 ![Calculator Preview](calculator-preview.png) *(Replace with a screenshot of your calculator)*
 
@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/calculator.git
+    git clone https://github.com/Sanskargupta0/Calculator.git
     ```
 2. **Navigate to the project directory**:
     ```bash
